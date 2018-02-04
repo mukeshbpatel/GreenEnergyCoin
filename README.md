@@ -1,22 +1,22 @@
-Bitcoin Core integration/staging tree
+Green Energy Bitcoin Core integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
 
-https://bitcoincore.org
+https://GreenEnergyBitcoin.com
 
-What is Bitcoin?
+What is Green Energy Bitcoin?
 ----------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
+Green Energy Bitcoin is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. Green Energy Bitcoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Bitcoin Core is the name of open source
+out collectively by the network. Green Energy Bitcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Bitcoin Core software, see https://bitcoin.org/en/download, or read the
-[original whitepaper](https://bitcoincore.org/bitcoin.pdf).
+the Bitcoin Core software, see https://GreenEnergyBitcoin.com/download, or read the
+[original whitepaper](https://GreenEnergyBitcoin.org/coin.pdf).
 
 License
 -------
